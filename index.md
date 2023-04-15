@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 ![semente](img/header.png)
