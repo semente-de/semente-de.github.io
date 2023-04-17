@@ -14,7 +14,7 @@ semente builds on knowledge exchange in projects such as [fonte.wiki](https://fo
 
 Semente went through a series of feedback sessions:
  - at the 2022 edition of [Tropixel](https://tropixel.org) in Ubatuba, Brazil (July 2022).
- - at the [MozFest](https://schedule.mozillafestival.org/session/TNZJ3K/) (March 2023).
+ - at the [MozFest](https://schedule.mozillafestival.org/session/TNZJ3K-1) (March 2023).
  - during the launch of Critical Infrastructure Lab in Amsterdam (April 2023).
 
 ![Tropixel](img/visual.jpg)
